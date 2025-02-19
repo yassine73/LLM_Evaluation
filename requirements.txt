@@ -1,0 +1,9 @@
+langsmith
+pydantic
+langchain-groq
+langchain_community
+langchain
+pandas
+replicate
+psycopg2-binary
+openpyxl
