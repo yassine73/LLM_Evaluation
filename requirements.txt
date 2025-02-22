@@ -1,9 +1,11 @@
 langsmith
 pydantic
 langchain-groq
+langchain-openai
 langchain_community
 langchain
 pandas
 replicate
 psycopg2-binary
 openpyxl
+openai
